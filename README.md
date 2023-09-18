@@ -5,7 +5,7 @@ In this comprehensive project, the primary objectives were to create insightful 
 # Sales Report:
 -- Project Objective:
 
-Generate a detailed [customer performance report]file:///E:/Bootcamp/Excel%20Module/CHAPTER%20%208/practice/Customer%20Net%20Sales%20Report.pdf_, allowing for a thorough analysis of customer interactions and trends.
+Generate a detailed customer performance report allowing for a thorough analysis of customer interactions and trends.
 
 Conduct an in-depth comparison between market performance and sales targets to gauge the effectiveness of sales strategies.
 
