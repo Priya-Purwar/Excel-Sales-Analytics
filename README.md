@@ -5,7 +5,7 @@ In this comprehensive project, the primary objectives were to create insightful 
 # Sales Report:
 -- Project Objective:
 
-Generate a detailed _[customer performance report] (https://github.com/Priya-Purwar/Excel-Sales-Analytics/blob/main/Customer%20Net%20Sales%20Report.pdf)_ allowing for a thorough analysis of customer interactions and trends.
+Generate a detailed customer performance report allowing for a thorough analysis of customer interactions and trends.
 
 Conduct an in-depth comparison between market performance and sales targets to gauge the effectiveness of sales strategies.
 
